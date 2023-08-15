@@ -11,7 +11,7 @@ How to Play
 Contributing
 License
 Demo
-A live demo of the game can be found at Demo Link.
+A live demo of the game can be found at https://mohamedmahmoud2020-dotcom.github.io/SimonGame/.
 
 Features
 Replicate the computer's sequence of colors by clicking the buttons in the correct order.
@@ -26,11 +26,11 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/your-username/SimonGame.git
 Navigate to the project directory:
 bash
 Copy code
-cd simon-game
+cd SimoGame
 Open the index.html file in your preferred web browser.
 How to Play
 When you open the game, you'll see a heading showing the current level. The game will wait for you to start.

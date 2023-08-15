@@ -1,0 +1,43 @@
+body{
+  background-color: #11324D;
+  text-align: center;
+}
+h1{
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size:4rem;
+  color: white;
+  word-spacing:50px;
+}
+.container{
+  width: 50%;
+  margin: auto;
+}
+
+.btn{
+  display: inline-block;
+  margin: 25px;
+  width: 200px;
+  height: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
+.red{
+  background-color: red;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
